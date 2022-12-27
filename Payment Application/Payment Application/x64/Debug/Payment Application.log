@@ -1,0 +1,10 @@
+﻿  server.c
+C:\Users\omar-sabry\source\repos\Payment Application\Payment Application\Server\server.c(34,55): warning C4047: 'function': 'ST_accountsDB_t **' differs in levels of indirection from 'ST_accountsDB_t *'
+C:\Users\omar-sabry\source\repos\Payment Application\Payment Application\Server\server.c(34,52): warning C4024: 'isValidAccount': different types for formal and actual parameter 2
+C:\Users\omar-sabry\source\repos\Payment Application\Payment Application\Server\server.c(40,55): warning C4047: 'function': 'ST_accountsDB_t **' differs in levels of indirection from 'ST_accountsDB_t *'
+C:\Users\omar-sabry\source\repos\Payment Application\Payment Application\Server\server.c(40,52): warning C4024: 'isValidAccount': different types for formal and actual parameter 2
+C:\Users\omar-sabry\source\repos\Payment Application\Payment Application\Server\server.c(154,68): warning C4133: 'function': incompatible types - from 'float *' to 'ST_terminalData_t *'
+  main.c
+  Generating Code...
+C:\Users\omar-sabry\source\repos\Payment Application\Payment Application\Server\server.c(170): warning C4715: 'recieveTransactionData': not all control paths return a value
+  Payment Application.vcxproj -> C:\Users\omar-sabry\source\repos\Payment Application\x64\Debug\Payment Application.exe
